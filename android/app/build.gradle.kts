@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.statefulclickcounter"
+    namespace = "com.example.celebriylist"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
